@@ -17,3 +17,5 @@ Terraform documentation: https://registry.terraform.io/providers/hashicorp/aws/l
 2. terraform plan
 3. terraform apply
 4. yes
+
+required

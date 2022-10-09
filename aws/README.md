@@ -14,6 +14,7 @@ Terraform documentation: https://registry.terraform.io/providers/hashicorp/aws/l
 ### [aws_appsync_graphql_api](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/appsync_graphql_api#api-key-authentication)
 
 Required steps:
+
 1. terraform init
 2. terraform plan
 3. terraform apply
